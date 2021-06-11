@@ -1,0 +1,2 @@
+# magicmawaqit
+MagicMirror Mawaqit
